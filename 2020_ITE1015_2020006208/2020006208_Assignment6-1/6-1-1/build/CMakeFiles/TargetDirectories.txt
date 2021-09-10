@@ -1,0 +1,3 @@
+/home/juny/2020_ITE1015_2020006208/2020006208_Assignment6-1/6-1-1/build/CMakeFiles/rebuild_cache.dir
+/home/juny/2020_ITE1015_2020006208/2020006208_Assignment6-1/6-1-1/build/CMakeFiles/simple_shape.dir
+/home/juny/2020_ITE1015_2020006208/2020006208_Assignment6-1/6-1-1/build/CMakeFiles/edit_cache.dir

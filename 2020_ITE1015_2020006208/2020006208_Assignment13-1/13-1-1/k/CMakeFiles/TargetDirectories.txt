@@ -1,0 +1,3 @@
+/home/juny/2020_ITE1015_2020006208/2020006208_Assignment13-1/13-1-1/k/CMakeFiles/rebuild_cache.dir
+/home/juny/2020_ITE1015_2020006208/2020006208_Assignment13-1/13-1-1/k/CMakeFiles/exception1.dir
+/home/juny/2020_ITE1015_2020006208/2020006208_Assignment13-1/13-1-1/k/CMakeFiles/edit_cache.dir

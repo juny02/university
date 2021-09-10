@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/juny/2020_ITE1015_2020006208/2020006208_Assignment11-1/11-1-1/main.cpp
+my_string.h
+/home/juny/2020_ITE1015_2020006208/2020006208_Assignment11-1/11-1-1/my_string.h
+iostream
+-
+
+/home/juny/2020_ITE1015_2020006208/2020006208_Assignment11-1/11-1-1/my_string.cpp
+iostream
+-
+string.h
+-
+my_string.h
+/home/juny/2020_ITE1015_2020006208/2020006208_Assignment11-1/11-1-1/my_string.h
+
+/home/juny/2020_ITE1015_2020006208/2020006208_Assignment11-1/11-1-1/my_string.h
+iostream
+-
+

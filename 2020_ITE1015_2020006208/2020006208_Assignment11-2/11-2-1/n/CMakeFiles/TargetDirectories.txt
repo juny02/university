@@ -1,0 +1,3 @@
+/home/juny/2020_ITE1015_2020006208/2020006208_Assignment11-2/11-2-1/n/CMakeFiles/rebuild_cache.dir
+/home/juny/2020_ITE1015_2020006208/2020006208_Assignment11-2/11-2-1/n/CMakeFiles/MyVector.dir
+/home/juny/2020_ITE1015_2020006208/2020006208_Assignment11-2/11-2-1/n/CMakeFiles/edit_cache.dir

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/juny/2020_ITE1015_2020006208/2020006208_Assignment9-2/9-2-2/canvas.cpp
+iostream
+-
+vector
+-
+canvas.h
+/home/juny/2020_ITE1015_2020006208/2020006208_Assignment9-2/9-2-2/canvas.h
+
+/home/juny/2020_ITE1015_2020006208/2020006208_Assignment9-2/9-2-2/canvas.h
+vector
+-
+
+/home/juny/2020_ITE1015_2020006208/2020006208_Assignment9-2/9-2-2/main.cpp
+iostream
+-
+canvas.h
+/home/juny/2020_ITE1015_2020006208/2020006208_Assignment9-2/9-2-2/canvas.h
+vector
+-
+

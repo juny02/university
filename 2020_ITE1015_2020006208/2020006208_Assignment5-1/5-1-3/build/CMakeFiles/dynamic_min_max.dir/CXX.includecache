@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/juny/2020_ITE1015_2020006208/2020006208_Assignment5-1/5-1-3/main.cpp
+iostream
+-
+cstdlib
+-
+minmax.h
+/home/juny/2020_ITE1015_2020006208/2020006208_Assignment5-1/5-1-3/minmax.h
+
+/home/juny/2020_ITE1015_2020006208/2020006208_Assignment5-1/5-1-3/minmax.cpp
+iostream
+-
+
+/home/juny/2020_ITE1015_2020006208/2020006208_Assignment5-1/5-1-3/minmax.h
+

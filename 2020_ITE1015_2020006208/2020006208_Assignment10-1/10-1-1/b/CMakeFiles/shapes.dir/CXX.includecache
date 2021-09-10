@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/juny/2020_ITE1015_2020006208/2020006208_Assignment10-1/10-1-1/main.cpp
+iostream
+-
+shape.h
+/home/juny/2020_ITE1015_2020006208/2020006208_Assignment10-1/10-1-1/shape.h
+vector
+-
+
+/home/juny/2020_ITE1015_2020006208/2020006208_Assignment10-1/10-1-1/shape.cpp
+shape.h
+/home/juny/2020_ITE1015_2020006208/2020006208_Assignment10-1/10-1-1/shape.h
+
+/home/juny/2020_ITE1015_2020006208/2020006208_Assignment10-1/10-1-1/shape.h
+

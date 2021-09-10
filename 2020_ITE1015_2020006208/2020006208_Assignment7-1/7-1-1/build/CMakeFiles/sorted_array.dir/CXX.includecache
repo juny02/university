@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/juny/2020_ITE1015_2020006208/2020006208_Assignment7-1/7-1-1/main.cpp
+sorted.h
+/home/juny/2020_ITE1015_2020006208/2020006208_Assignment7-1/7-1-1/sorted.h
+iostream
+-
+vector
+-
+
+/home/juny/2020_ITE1015_2020006208/2020006208_Assignment7-1/7-1-1/sorted.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+sorted.h
+/home/juny/2020_ITE1015_2020006208/2020006208_Assignment7-1/7-1-1/sorted.h
+
+/home/juny/2020_ITE1015_2020006208/2020006208_Assignment7-1/7-1-1/sorted.h
+vector
+-
+
